@@ -1,1 +1,1 @@
-# nth-maximum-number-in-a-given-list
+# nth-maximum & minimum number-in-a-given-list
